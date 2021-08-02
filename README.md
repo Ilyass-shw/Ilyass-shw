@@ -1,4 +1,4 @@
-[![Ilyass's GitHub Banner](./images/Ilyass.png)](https://github.com/Ilyass-shw)
+[![Ilyass's GitHub Banner](./imgsAndSvgs/Ilyass.png)](https://github.com/Ilyass-shw)
 
 Hey there 👋
 
