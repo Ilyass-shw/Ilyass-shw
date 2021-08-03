@@ -15,7 +15,8 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - <img src="./imgsAndSvgs/file-type-js-official.svg"/> : JavaScript
 
 - <img src="./imgsAndSvgs/react.svg"/> : React
-- <img src="./imgsAndSvgs/file-type-typescript-official.svg"/> :  Redux
+- <img src="./imgsAndSvgs/redux.svg"/> :  Redux
+- <img src="./imgsAndSvgs/file-type-styled.svg"/> :  Styled Components
 - <img src="./imgsAndSvgs/jest.svg"/> : Jest
 - <img src="./imgsAndSvgs/testinglibrary.svg"/> : Testing library
 - <img src="./imgsAndSvgs/cypress.svg"/> : Cypress
