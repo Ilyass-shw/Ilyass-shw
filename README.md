@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I’m Ilyass, a future frontend engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Ilyass, a passionate programmer and a creative developer with a mathematical background. I have developed a strong interest in web technologies, in particular, a long time ago, and have been taking learning frontend skills seriously for about a year now. I am now looking to expand my experience professionally and enjoy developing alongside new people.
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
