@@ -19,7 +19,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - <img src="./imgsAndSvgs/file-type-styled.svg"/> :  Styled Components
 - <img src="./imgsAndSvgs/jest.svg"/> : Jest
 - <img src="./imgsAndSvgs/testinglibrary.svg"/> : Testing library
-- <img src="./imgsAndSvgs/cypress.svg"/> : Cypress
+- <img src="./imgsAndSvgs/cypress%20(5).svg" width='32px'/> : Cypress
 <br>
 
 ## 📌 Pinned Repositories
