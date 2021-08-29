@@ -4,7 +4,7 @@ Hey there 👋
 
 I’m Ilyass, a passionate programmer and creative developer with a mathematical background. I have developed a strong interest in web technologies a long time ago and have been taking learning frontend skills, in particular, seriously for about a year now. I am now looking to expand my experience professionally and enjoy developing alongside new people.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://ilyassf.netlify.app)
 <br>
 
 ## 💼 Skills
