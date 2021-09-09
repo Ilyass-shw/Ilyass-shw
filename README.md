@@ -22,6 +22,12 @@ Want to know more about me? [Check out my portfolio.](https://ilyassf.netlify.ap
 <a href="https://github.com/Ilyass-shw/Shw-shop">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilyass-shw&repo=Shw-shop&theme=midnight-purple&show_icons=true" />
 </a>
+<a href="https://github.com/Ilyass-shw/Portfolio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilyass-shw&repo=Shw-shop&theme=midnight-purple&show_icons=true" />
+</a>
+<a href="https://github.com/Ilyass-shw/Youddit">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilyass-shw&repo=Shw-shop&theme=midnight-purple&show_icons=true" />
+</a>
 <br>
 
 ## 📈 GitHub Stats
