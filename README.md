@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I am Ilyass, a Competent programmer with a special passion for the web. I am Adept at producing quality code and always excited to learn
+I am Ilyass, a Competent programmer with a special passion for the web. I am adept at producing quality code and always excited to learn
 and improve. Currently looking for a new place where to expand experience professionally and keep developing alongside
 beautiful people.
 
