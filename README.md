@@ -2,7 +2,9 @@
 
 Hey there 👋
 
-I’m Ilyass, a passionate programmer and creative developer with a mathematical background. I have developed a strong interest in web technologies a long time ago and have been taking practicing frontend skills, in particular, for about a year now. I am now looking to expand my experience professionally and enjoy developing alongside new people.
+Competent programmer with a special passion for the web. Adept at producing quality code and always excited to learn
+and improve. Currently looking for a new place where to expand experience professionally and keep developing alongside
+beautiful people.
 
 Want to know more about me? [Check out my portfolio.](https://ilyassf.netlify.app)
 <br>
